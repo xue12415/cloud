@@ -83,7 +83,7 @@
         <module>cloud-consumer-dept-feign</module>
         <module>cloud-provider-8001-hystrix</module>
         <module>cloud-consumer-hystrix-9001</module>
-        <module>cloud-rabbitmq-8070</module>
+        <module>cloud-servicecloud-zuul-gateway-9527</module>
     </modules>
 
 </project>
